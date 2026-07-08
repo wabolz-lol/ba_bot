@@ -1,0 +1,705 @@
+{
+  "bdrckanrchy": {
+    "kills": 0,
+    "deaths": 0,
+    "playtimeMs": 0,
+    "lastSeen": 1783534329935,
+    "online": true,
+    "streak": 0,
+    "bestStreak": 0,
+    "causes": {},
+    "killedBy": {}
+  },
+  "x7r46v": {
+    "kills": 0,
+    "deaths": 5,
+    "playtimeMs": 2469699,
+    "lastSeen": 1783525765457,
+    "online": true,
+    "streak": 0,
+    "bestStreak": 0,
+    "causes": {
+      "explosion": 1,
+      "slain": 1,
+      "fall_short": 2,
+      "fall_water_or_void": 1
+    },
+    "killedBy": {
+      "Ghast": 1,
+      "Enderman": 1
+    }
+  },
+  "MdSaad2012": {
+    "kills": 0,
+    "deaths": 0,
+    "playtimeMs": 0,
+    "lastSeen": 1783479605954,
+    "online": false,
+    "streak": 0,
+    "bestStreak": 0,
+    "causes": {},
+    "killedBy": {}
+  },
+  "VoidWalker6625": {
+    "kills": 0,
+    "deaths": 0,
+    "playtimeMs": 0,
+    "lastSeen": 1783478506100,
+    "online": false,
+    "streak": 0,
+    "bestStreak": 0,
+    "causes": {},
+    "killedBy": {}
+  },
+  "UnknitCube1809": {
+    "kills": 0,
+    "deaths": 0,
+    "playtimeMs": 0,
+    "lastSeen": 1783478747852,
+    "online": false,
+    "streak": 0,
+    "bestStreak": 0,
+    "causes": {},
+    "killedBy": {}
+  },
+  "Ghast": {
+    "kills": 1,
+    "deaths": 0,
+    "playtimeMs": 0,
+    "lastSeen": null,
+    "online": false,
+    "streak": 1,
+    "bestStreak": 1,
+    "causes": {},
+    "killedBy": {}
+  },
+  "dead61757": {
+    "kills": 0,
+    "deaths": 0,
+    "playtimeMs": 72571,
+    "lastSeen": 1783530060003,
+    "online": false,
+    "streak": 0,
+    "bestStreak": 0,
+    "causes": {},
+    "killedBy": {}
+  },
+  "Enderman": {
+    "kills": 1,
+    "deaths": 0,
+    "playtimeMs": 0,
+    "lastSeen": null,
+    "online": false,
+    "streak": 1,
+    "bestStreak": 1,
+    "causes": {},
+    "killedBy": {}
+  },
+  "J26C4U": {
+    "kills": 1,
+    "deaths": 1,
+    "playtimeMs": 0,
+    "lastSeen": 1783482087501,
+    "online": false,
+    "streak": 1,
+    "bestStreak": 1,
+    "causes": {
+      "fall": 1
+    },
+    "killedBy": {}
+  },
+  "SnackXD22": {
+    "kills": 0,
+    "deaths": 0,
+    "playtimeMs": 42297,
+    "lastSeen": 1783482257867,
+    "online": false,
+    "streak": 0,
+    "bestStreak": 0,
+    "causes": {},
+    "killedBy": {}
+  },
+  "Dark King8379": {
+    "kills": 0,
+    "deaths": 0,
+    "playtimeMs": 0,
+    "lastSeen": 1783482314246,
+    "online": true,
+    "streak": 0,
+    "bestStreak": 0,
+    "causes": {},
+    "killedBy": {}
+  },
+  "Yoseflhrel12": {
+    "kills": 0,
+    "deaths": 5,
+    "playtimeMs": 251337,
+    "lastSeen": 1783525435715,
+    "online": true,
+    "streak": 0,
+    "bestStreak": 0,
+    "causes": {
+      "fall": 4,
+      "slain": 1
+    },
+    "killedBy": {
+      "Polar": 1
+    }
+  },
+  "zead1761": {
+    "kills": 0,
+    "deaths": 5,
+    "playtimeMs": 0,
+    "lastSeen": 1783518549657,
+    "online": false,
+    "streak": 0,
+    "bestStreak": 0,
+    "causes": {
+      "fall": 4,
+      "burned": 1
+    },
+    "killedBy": {}
+  },
+  "PlainFlyer7448": {
+    "kills": 1,
+    "deaths": 0,
+    "playtimeMs": 0,
+    "lastSeen": 1783534429352,
+    "online": false,
+    "streak": 1,
+    "bestStreak": 1,
+    "causes": {},
+    "killedBy": {}
+  },
+  "watercraft6473": {
+    "kills": 0,
+    "deaths": 0,
+    "playtimeMs": 217664,
+    "lastSeen": 1783527574132,
+    "online": false,
+    "streak": 0,
+    "bestStreak": 0,
+    "causes": {},
+    "killedBy": {}
+  },
+  "GreenbuX": {
+    "kills": 0,
+    "deaths": 1,
+    "playtimeMs": 471278,
+    "lastSeen": 1783529496458,
+    "online": true,
+    "streak": 0,
+    "bestStreak": 0,
+    "causes": {
+      "fall": 1
+    },
+    "killedBy": {}
+  },
+  "CursedTruth6682": {
+    "kills": 0,
+    "deaths": 1,
+    "playtimeMs": 654825,
+    "lastSeen": 1783529499124,
+    "online": false,
+    "streak": 0,
+    "bestStreak": 0,
+    "causes": {
+      "fall": 1
+    },
+    "killedBy": {}
+  },
+  "BraveBeast8747": {
+    "kills": 0,
+    "deaths": 0,
+    "playtimeMs": 0,
+    "lastSeen": 1783530035855,
+    "online": true,
+    "streak": 0,
+    "bestStreak": 0,
+    "causes": {},
+    "killedBy": {}
+  },
+  "chayyykejeje": {
+    "kills": 0,
+    "deaths": 0,
+    "playtimeMs": 1001042,
+    "lastSeen": 1783529940716,
+    "online": true,
+    "streak": 0,
+    "bestStreak": 0,
+    "causes": {},
+    "killedBy": {}
+  },
+  "Fox4Christt": {
+    "kills": 0,
+    "deaths": 0,
+    "playtimeMs": 0,
+    "lastSeen": 1783518929362,
+    "online": true,
+    "streak": 0,
+    "bestStreak": 0,
+    "causes": {},
+    "killedBy": {}
+  },
+  "SURERCAPE 6124": {
+    "kills": 0,
+    "deaths": 0,
+    "playtimeMs": 153599,
+    "lastSeen": 1783519173356,
+    "online": true,
+    "streak": 0,
+    "bestStreak": 0,
+    "causes": {},
+    "killedBy": {}
+  },
+  "IGOTBACON7431": {
+    "kills": 0,
+    "deaths": 0,
+    "playtimeMs": 0,
+    "lastSeen": 1783519253896,
+    "online": true,
+    "streak": 0,
+    "bestStreak": 0,
+    "causes": {},
+    "killedBy": {}
+  },
+  "Uri13356": {
+    "kills": 0,
+    "deaths": 4,
+    "playtimeMs": 0,
+    "lastSeen": 1783528586497,
+    "online": false,
+    "streak": 0,
+    "bestStreak": 0,
+    "causes": {
+      "fall": 2,
+      "slain": 1,
+      "explosion": 1
+    },
+    "killedBy": {
+      "J26C4U": 1,
+      "Creeper": 1
+    }
+  },
+  "Alban993": {
+    "kills": 0,
+    "deaths": 8,
+    "playtimeMs": 1548003,
+    "lastSeen": 1783529720975,
+    "online": false,
+    "streak": 0,
+    "bestStreak": 0,
+    "causes": {
+      "fall": 7,
+      "slain": 1
+    },
+    "killedBy": {
+      "Zombie": 1
+    }
+  },
+  "BrightSole6345": {
+    "kills": 0,
+    "deaths": 3,
+    "playtimeMs": 0,
+    "lastSeen": 1783525343552,
+    "online": false,
+    "streak": 0,
+    "bestStreak": 0,
+    "causes": {
+      "fall": 3
+    },
+    "killedBy": {}
+  },
+  "RipXATAR": {
+    "kills": 309,
+    "deaths": 0,
+    "playtimeMs": 0,
+    "lastSeen": 1783529018662,
+    "online": true,
+    "streak": 309,
+    "bestStreak": 309,
+    "causes": {},
+    "killedBy": {}
+  },
+  "Litol4866": {
+    "kills": 0,
+    "deaths": 0,
+    "playtimeMs": 0,
+    "lastSeen": 1783525664654,
+    "online": true,
+    "streak": 0,
+    "bestStreak": 0,
+    "causes": {},
+    "killedBy": {}
+  },
+  "Litol1985": {
+    "kills": 0,
+    "deaths": 0,
+    "playtimeMs": 134664,
+    "lastSeen": 1783528701182,
+    "online": false,
+    "streak": 0,
+    "bestStreak": 0,
+    "causes": {},
+    "killedBy": {}
+  },
+  "ILunarMC": {
+    "kills": 0,
+    "deaths": 2,
+    "playtimeMs": 0,
+    "lastSeen": null,
+    "online": false,
+    "streak": 0,
+    "bestStreak": 0,
+    "causes": {
+      "fall": 2
+    },
+    "killedBy": {}
+  },
+  "Polar": {
+    "kills": 1,
+    "deaths": 0,
+    "playtimeMs": 0,
+    "lastSeen": null,
+    "online": false,
+    "streak": 1,
+    "bestStreak": 1,
+    "causes": {},
+    "killedBy": {}
+  },
+  "ThunderOP8937": {
+    "kills": 0,
+    "deaths": 0,
+    "playtimeMs": 824488,
+    "lastSeen": 1783529689015,
+    "online": true,
+    "streak": 0,
+    "bestStreak": 0,
+    "causes": {},
+    "killedBy": {}
+  },
+  "Dinnerbone6218": {
+    "kills": 0,
+    "deaths": 310,
+    "playtimeMs": 1163904,
+    "lastSeen": 1783529761189,
+    "online": false,
+    "streak": 0,
+    "bestStreak": 0,
+    "causes": {
+      "slain": 308,
+      "died": 1,
+      "burned": 1
+    },
+    "killedBy": {
+      "RipXATAR": 308
+    }
+  },
+  "PaleRug4855": {
+    "kills": 0,
+    "deaths": 0,
+    "playtimeMs": 136311,
+    "lastSeen": 1783527417140,
+    "online": false,
+    "streak": 0,
+    "bestStreak": 0,
+    "causes": {},
+    "killedBy": {}
+  },
+  "Mario39591": {
+    "kills": 0,
+    "deaths": 4,
+    "playtimeMs": 0,
+    "lastSeen": 1783527603137,
+    "online": false,
+    "streak": 0,
+    "bestStreak": 0,
+    "causes": {
+      "slain": 2,
+      "fall": 2
+    },
+    "killedBy": {
+      "Zombie": 2
+    }
+  },
+  "Zombie": {
+    "kills": 6,
+    "deaths": 0,
+    "playtimeMs": 0,
+    "lastSeen": null,
+    "online": false,
+    "streak": 6,
+    "bestStreak": 6,
+    "causes": {},
+    "killedBy": {}
+  },
+  "GoldenEagle4148": {
+    "kills": 0,
+    "deaths": 0,
+    "playtimeMs": 438349,
+    "lastSeen": 1783528369766,
+    "online": false,
+    "streak": 0,
+    "bestStreak": 0,
+    "causes": {},
+    "killedBy": {}
+  },
+  "BunkerZ9": {
+    "kills": 0,
+    "deaths": 1,
+    "playtimeMs": 2525647,
+    "lastSeen": 1783530367338,
+    "online": false,
+    "streak": 0,
+    "bestStreak": 0,
+    "causes": {
+      "shot": 1
+    },
+    "killedBy": {
+      "Skeleton": 1
+    }
+  },
+  "RealBillyBigTre": {
+    "kills": 0,
+    "deaths": 0,
+    "playtimeMs": 2156366,
+    "lastSeen": 1783534745893,
+    "online": true,
+    "streak": 0,
+    "bestStreak": 0,
+    "causes": {},
+    "killedBy": {}
+  },
+  "HazelCello14253": {
+    "kills": 0,
+    "deaths": 0,
+    "playtimeMs": 0,
+    "lastSeen": 1783528175695,
+    "online": false,
+    "streak": 0,
+    "bestStreak": 0,
+    "causes": {},
+    "killedBy": {}
+  },
+  "Hman5524": {
+    "kills": 0,
+    "deaths": 3,
+    "playtimeMs": 0,
+    "lastSeen": 1783528194927,
+    "online": true,
+    "streak": 0,
+    "bestStreak": 0,
+    "causes": {
+      "explosion": 1,
+      "fall": 1,
+      "slain": 1
+    },
+    "killedBy": {
+      "Wither": 1,
+      "PlainFlyer7448": 1
+    }
+  },
+  "Sk5936": {
+    "kills": 0,
+    "deaths": 3,
+    "playtimeMs": 1623024,
+    "lastSeen": 1783530560993,
+    "online": true,
+    "streak": 0,
+    "bestStreak": 0,
+    "causes": {
+      "fall": 2,
+      "explosion": 1
+    },
+    "killedBy": {
+      "Creeper": 1
+    }
+  },
+  "SnowyCrib5813": {
+    "kills": 0,
+    "deaths": 3,
+    "playtimeMs": 471317,
+    "lastSeen": 1783528868828,
+    "online": true,
+    "streak": 0,
+    "bestStreak": 0,
+    "causes": {
+      "shot": 1,
+      "slain": 1,
+      "fall": 1
+    },
+    "killedBy": {
+      "Stray": 1,
+      "voidmisoXll": 1
+    }
+  },
+  "MrMagnetic11": {
+    "kills": 0,
+    "deaths": 3,
+    "playtimeMs": 334928,
+    "lastSeen": 1783528694989,
+    "online": false,
+    "streak": 0,
+    "bestStreak": 0,
+    "causes": {
+      "slain": 2,
+      "fall": 1
+    },
+    "killedBy": {
+      "Zombie": 2
+    }
+  },
+  "Stray": {
+    "kills": 1,
+    "deaths": 0,
+    "playtimeMs": 0,
+    "lastSeen": null,
+    "online": false,
+    "streak": 1,
+    "bestStreak": 1,
+    "causes": {},
+    "killedBy": {}
+  },
+  "InsectWeb6967": {
+    "kills": 0,
+    "deaths": 0,
+    "playtimeMs": 1130228,
+    "lastSeen": 1783529632820,
+    "online": false,
+    "streak": 0,
+    "bestStreak": 0,
+    "causes": {},
+    "killedBy": {}
+  },
+  "Creeper": {
+    "kills": 2,
+    "deaths": 0,
+    "playtimeMs": 0,
+    "lastSeen": null,
+    "online": false,
+    "streak": 2,
+    "bestStreak": 2,
+    "causes": {},
+    "killedBy": {}
+  },
+  "AvionCordage91": {
+    "kills": 0,
+    "deaths": 12,
+    "playtimeMs": 578988,
+    "lastSeen": 1783529357648,
+    "online": false,
+    "streak": 0,
+    "bestStreak": 0,
+    "causes": {
+      "slain": 1,
+      "fall": 10,
+      "lava": 1
+    },
+    "killedBy": {
+      "Zombie": 1
+    }
+  },
+  "DuskLace6133": {
+    "kills": 0,
+    "deaths": 0,
+    "playtimeMs": 0,
+    "lastSeen": 1783529675257,
+    "online": true,
+    "streak": 0,
+    "bestStreak": 0,
+    "causes": {},
+    "killedBy": {}
+  },
+  "ziizzooo": {
+    "kills": 0,
+    "deaths": 0,
+    "playtimeMs": 0,
+    "lastSeen": 1783529844236,
+    "online": true,
+    "streak": 0,
+    "bestStreak": 0,
+    "causes": {},
+    "killedBy": {}
+  },
+  "Skeleton": {
+    "kills": 1,
+    "deaths": 0,
+    "playtimeMs": 0,
+    "lastSeen": null,
+    "online": false,
+    "streak": 1,
+    "bestStreak": 1,
+    "causes": {},
+    "killedBy": {}
+  },
+  "voidmisoXll": {
+    "kills": 1,
+    "deaths": 0,
+    "playtimeMs": 0,
+    "lastSeen": 1783529997752,
+    "online": true,
+    "streak": 1,
+    "bestStreak": 1,
+    "causes": {},
+    "killedBy": {}
+  },
+  "Wither": {
+    "kills": 1,
+    "deaths": 0,
+    "playtimeMs": 0,
+    "lastSeen": null,
+    "online": false,
+    "streak": 1,
+    "bestStreak": 1,
+    "causes": {},
+    "killedBy": {}
+  },
+  "Nefwex": {
+    "kills": 0,
+    "deaths": 0,
+    "playtimeMs": 0,
+    "lastSeen": 1783530555802,
+    "online": true,
+    "streak": 0,
+    "bestStreak": 0,
+    "causes": {},
+    "killedBy": {}
+  },
+  "MolarWater5502": {
+    "kills": 0,
+    "deaths": 0,
+    "playtimeMs": 341156,
+    "lastSeen": 1783534733572,
+    "online": false,
+    "streak": 0,
+    "bestStreak": 0,
+    "causes": {},
+    "killedBy": {}
+  },
+  "SmarmyDisc7058": {
+    "kills": 0,
+    "deaths": 0,
+    "playtimeMs": 0,
+    "lastSeen": 1783534363673,
+    "online": false,
+    "streak": 0,
+    "bestStreak": 0,
+    "causes": {},
+    "killedBy": {}
+  },
+  "SkillMaes235": {
+    "kills": 0,
+    "deaths": 1,
+    "playtimeMs": 0,
+    "lastSeen": null,
+    "online": false,
+    "streak": 0,
+    "bestStreak": 0,
+    "causes": {
+      "slain": 1
+    },
+    "killedBy": {
+      "RipXATAR": 1
+    }
+  }
+}

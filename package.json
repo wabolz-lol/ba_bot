@@ -1,0 +1,13 @@
+{
+  "name": "bedrock-kd-bot",
+  "version": "1.0.0",
+  "description": "Chat command bot for a Bedrock Edition server (!kd style commands, 2b2t-inspired)",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "bedrock-protocol": "^3.55.1"
+  }
+}
